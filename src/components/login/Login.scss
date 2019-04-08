@@ -1,0 +1,31 @@
+.Login {
+  margin-left: 40px;
+  height: 250px;
+  overflow: scroll;
+  text-align: left;
+  font-weight: bold;
+  font-size: 1.2rem;
+  display: block;
+  width: 100%;
+  height: 100%;
+  border-radius: 4px;
+  position: relative;
+  background-color: rgba(255, 255, 255, 0.3);
+  transition: 0.3s all;
+}
+
+.pe {
+  margin-top: 200px;
+}
+
+.context {
+  margin: 0 auto;
+  max-width: 320px;
+  font-size: 15px;
+  text-align: center;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 80px 200px auto 40px;
+}
